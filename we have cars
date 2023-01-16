@@ -1,0 +1,19 @@
+we have cars 
+
+
+ - routing + views 
+ - databases
+  - set up (cars)
+  - format our datbase (migrations)
+  - connect to our database (models)
+  - create sample data
+
+- crud oppiration 
+ - view all cars
+ - view a single car
+ - create a car 
+ - edit/update a car 
+ - delete a car
+
+
+
